@@ -1,0 +1,4 @@
+﻿# Flux example basics
+*.log
+.DS_Store
+Thumbs.db
